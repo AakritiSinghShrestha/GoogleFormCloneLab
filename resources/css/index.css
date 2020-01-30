@@ -1,0 +1,51 @@
+
+
+
+.fullscreencontain{
+	border: 1px solid white;
+	margin: auto;
+  height:1700px;
+  width:640px;
+  background-color:lightpink;
+}
+.fullscreencontainimage{
+	margin-top: 4px;
+}
+.photo{
+	border-radius: 8px;
+	width: 100%;
+	height: 160px;
+}
+.fullscreencontainsecondpart{
+	border: 1px solid #dadce0;
+	margin-top: 6px;
+  height:185px;
+  width:100%;
+  background-color:white;
+  border-top:10px solid black;
+  border-radius: 8px;
+ 
+}
+.fullscreencontainsecondpartfindtime{
+padding-left: 25px;
+margin-top: -3px;
+}
+h1.serif{
+font-family:'Google Sans',Roboto,Arial,sans-serif;
+font-weight:200;
+}
+p.serif{
+font-family: Roboto,Arial,sans-serif;
+font-size: 14px;
+font-weight:100;
+padding-bottom:15px;
+margin-top: -5px;
+}
+
+h4{
+font-family: Roboto,Arial,sans-serif;
+margin-top: -15px;
+font-weight:100;
+font-size: 14px;
+}
+
